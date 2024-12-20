@@ -2,6 +2,9 @@
 Changelog for package rmw_connextddsmicro
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 0.24.2 (2024-10-03)
 -------------------
 
