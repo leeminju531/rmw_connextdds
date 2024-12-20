@@ -2,8 +2,8 @@
 Changelog for package rmw_connextdds_common
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.25.0 (2024-12-20)
+-------------------
 * Instrument client/service for end-to-end request/response tracking (`#163 <https://github.com/ros2/rmw_connextdds/issues/163>`_)
 * Contributors: Christophe Bedard
 
